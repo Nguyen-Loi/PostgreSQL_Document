@@ -1,0 +1,18 @@
+### Sql- Advanced Managing tables & databases
+- Data Types:
+	- ![img](images/data_type1.png)
+	- ![img](images/data_type2.png)
+	- ![img](images/data_type3.png)
+	- ![img](images/data_type4.png)
+	- ![img](images/data_type5.png)
+	- ![img](images/data_type6.png)
+	- ![img](images/data_type7.png)
+	- ![img](images/data_type8.png)
+	- ![img](images/data_type9.png)
+	- ![img](images/data_type10.png)
+- Insert
+	- ![img](images/insert1.png)
+- Alert
+	- ![img](images/alert1.png)
+- Check
+	- ![img](images/check1.png)
