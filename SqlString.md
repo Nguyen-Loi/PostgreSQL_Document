@@ -10,10 +10,10 @@
 - Position: 
 	`POSITION('@' IN email)`
 - Extract:
-	![img](images/Extract.png)
-	![img](images/Extract2.png)
-	![img](images/Extract3.png)
-	![img](images/Extract4.png)
+	![img](images/extract.png)
+	![img](images/extract2.png)
+	![img](images/extract3.png)
+	![img](images/extract4.png)
 - To char:
 	![img](images/to_char.png)
 	![img](images/to_char2.png)
